@@ -10,7 +10,7 @@ BUGS:<br />
 2. Missing a refresh button in the game screen.<br />
 3. Add effect when the user swipe right/left.<br />
 4. In the screen of delete game missing the buttons of "YES" and "NO" in some android versions.<br />
-5. The user need to enter to the phone's setting and change the permission that the app can use the SMS and the contants.<br />
+5. The user need to enter to the phone's setting and change the permission that the app can use the SMS and the contants in some android versions.<br />
 6. The logic of the 4 player chess is maybe wrong.<br />
 
 Enjoy.
