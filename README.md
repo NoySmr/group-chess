@@ -1,8 +1,8 @@
 # Group-Chess
 
 This is an application of group chess.
-The app is for android 4.2.
-the app contains 3 types of group chess games: common game that each player can play for each of the groups, group VS group and 4 players chess.
+The app is for android 4.2.<br />
+The app contains 3 types of group chess games: common game that each player can play for each of the groups, group VS group and 4 players chess.
 The app is bases on SMS and it's work without internet.
 
 BUGS:<br />
